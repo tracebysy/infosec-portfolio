@@ -17,7 +17,7 @@ DVWA 기반 실습을 수행하고 정리한 포트폴리오입니다.
   - Command Injection
 
 ## 취약점 분석 (링크 연결하게 하기)
-- SQL Injection [SQL Injection](./vulnerability/SQLi/DVWA-SQLi.md)
+- SQL Injection [SQL Injection](./infosec-portfolio/vulnerability/SQLi/DVWA-SQLi.md)
 - XSS [XSS](./vulnerability/XSS/DVWA-XSS.md)
 - Command Injection [Command Injection](./vulnerability/Command-Injection/DVWA-Command.md)
 
