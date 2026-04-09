@@ -18,8 +18,8 @@ DVWA 기반 실습을 수행하고 정리한 포트폴리오입니다.
 
 ## 취약점 분석 (링크 연결하게 하기)
 - SQL Injection [SQL Injection](./infosec-portfolio/Vulnerability/SQLi/DVWA-SQLi.md)
-- XSS [XSS](./vulnerability/XSS/DVWA-XSS.md)
-- Command Injection [Command Injection](./vulnerability/Command-Injection/DVWA-Command.md)
+- XSS [XSS](./infosec-portfolio/Vulnerability/XSS/DVWA-XSS.md)
+- Command Injection [Command Injection](./infosec-portfolio/Vulnerability/Command-Injection/DVWA-Command.md)
 
 - ## 목표
 보안관제 및 침해대응 직무를 목표로,  
