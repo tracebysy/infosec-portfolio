@@ -8,8 +8,8 @@
 각 항목은 개념 → 실습 → 보고서(결과 및 대응 방안)의 흐름으로 정리되어 있습니다.
 
 ## 📚 study for jobs
-- network [networkpart](./infosec-portfolio/study/network.md)
-- linux [linux](./infosec-portfolio/study/linux.md)
+- network [networkpart](./infosec-portfolio/study/network)
+- linux [linux](./infosec-portfolio/study/linux)
 - 
 ## 🛠 기술 스택
 Linux (기본 명령어 및 환경 이해)
