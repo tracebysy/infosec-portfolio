@@ -24,4 +24,6 @@ Network (TCP/IP, HTTP 구조 이해)
 웹 취약점에 대한 이해와 함께 공격 흐름을 분석하고 대응할 수 있는 역량을 키우고 있습니다..
 
 ## 📚 study for jobs
-- study ling -> 
+- network [network part](./infosec-protfolio/study/network park.md)
+- linux [linux](./infosec-porfolio/study/linux.md)
+- 
